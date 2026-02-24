@@ -90,10 +90,12 @@ The evaluation function scores board positions based on:
 
 ## Project Structure
 
+```text
 Project/
 ├── screenshots/
-│   ├── gameplay.png
-│   └── ai_win.png
+│   ├── start.png
+│   ├── mid.png
+│   └── end.png
 ├── src/
 │   ├── constants.py
 │   ├── game.py

@@ -25,7 +25,9 @@ This project demonstrates game logic design, heuristic evaluation, and adversari
 ## Screenshots
 
 ![Start of the game](screenshots/start.png)
+
 ![Mid of the game](screenshots/mid.png)
+
 ![End of the game](screenshots/end.png)
 
 ---
